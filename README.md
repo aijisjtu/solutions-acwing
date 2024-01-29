@@ -7,5 +7,5 @@ solutions to acwing problems
 
 ### 目录
 
-* [shexingjuzhen756.md](shexingjuzhen756.md)
+* [shexingjuzhen756.md](md/shexingjuzhen756.md)
 
